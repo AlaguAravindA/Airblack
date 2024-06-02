@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "design",
+    "name": "AirBlack",
     "slug": "design",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -31,6 +31,20 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "79406d4d-df9c-4ae5-8989-b03edcda36e8"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/79406d4d-df9c-4ae5-8989-b03edcda36e8"
     }
   }
 }
